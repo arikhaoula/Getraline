@@ -92,7 +92,7 @@ public class WordCount {
     private final Counter emptyLines = Metrics.counter(ExtractWordsFn.class, "emptyLines");
     private final Distribution lineLenDist =
         Metrics.distribution(ExtractWordsFn.class, "lineLenDistro");
-
+        
     @ProcessElement
     public void processElement(@Element String element, OutputReceiver<String> receiver) {
       lineLenDist.update(element.length());
@@ -186,8 +186,7 @@ public class WordCount {
   }
 
   public static void main(String[] args) {
-    WordCountOptions options =
-        PipelineOptionsFactory.fromArgs(args).withValidation().as(WordCountOptions.class);
+    WordCountOptions options = PipelineOptionsFactory.fromArgs(args).withValidation().as(WordCountOptions.class);
 
     runWordCount(options);
   }
