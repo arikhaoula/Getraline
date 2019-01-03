@@ -1,3 +1,4 @@
+C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\examples\TestP.java
 C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\examples\complete\game\injector\InjectorUtils.java
 C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\examples\WindowedWordCount.java
 C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\examples\common\ExampleBigQueryTableOptions.java
@@ -7,11 +8,13 @@ C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\ex
 C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\examples\complete\game\StatefulTeamScore.java
 C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\examples\complete\game\utils\WriteToText.java
 C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\examples\complete\game\utils\WriteWindowedToBigQuery.java
+C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\examples\FirstPipeline.java
 C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\examples\complete\game\UserScore.java
 C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\examples\complete\game\injector\RetryHttpInitializerWrapper.java
 C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\examples\subprocess\kernel\SubProcessKernel.java
 C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\examples\complete\game\LeaderBoard.java
 C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\examples\common\ExampleOptions.java
+C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\eu\nrx\dataflow\GetralinePipeline.java
 C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\examples\complete\game\GameStats.java
 C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\examples\complete\game\HourlyTeamScore.java
 C:\Users\Khaoula\Documents\test\word-count-beam\src\main\java\org\apache\beam\examples\complete\game\injector\Injector.java
